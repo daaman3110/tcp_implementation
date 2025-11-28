@@ -41,7 +41,7 @@ python tcp_server.py
 You should see:
 
 ```
-Server is running on port 9000
+<img width="867" height="87" alt="image" src="https://github.com/user-attachments/assets/92447e9a-46b0-4688-a005-2de9c468ffcc" />
 ```
 
 ---
@@ -55,14 +55,22 @@ python tcp_client.py
 Expected output:
 
 ```
-Connected to Server!!
-> 
+<img width="830" height="113" alt="image" src="https://github.com/user-attachments/assets/b877cd60-5275-46f4-bec8-491c34187342" />
 ```
 
 Now you can type anything and send it to the server.
 
 ---
 
+## Message Exchange between Server and Client
+***Client***
+<img width="825" height="133" alt="image" src="https://github.com/user-attachments/assets/d32a0528-5d60-4a5c-9766-df674a837021" />
+
+***Server***
+<img width="843" height="127" alt="image" src="https://github.com/user-attachments/assets/e9a19e27-f65a-4951-815c-07a4262e7bdc" />
+
+
+---
 ## How It Works (Very Simple Explanation)
 
 ### **Server**
@@ -109,7 +117,7 @@ This makes it behave like a real chat application.
 
 ---
 
-## 📚 Requirements
+## Requirements
 
 - Python 3.10+
 - No external libraries required
