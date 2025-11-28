@@ -63,10 +63,8 @@ Now you can type anything and send it to the server.
 ---
 
 ## Message Exchange between Server and Client
-***Client***
 <img width="825" height="133" alt="image" src="https://github.com/user-attachments/assets/d32a0528-5d60-4a5c-9766-df674a837021" />
 
-***Server***
 <img width="843" height="127" alt="image" src="https://github.com/user-attachments/assets/e9a19e27-f65a-4951-815c-07a4262e7bdc" />
 
 
