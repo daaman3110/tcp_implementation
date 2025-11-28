@@ -40,9 +40,10 @@ python tcp_server.py
 
 You should see:
 
-```
+
 <img width="867" height="87" alt="image" src="https://github.com/user-attachments/assets/92447e9a-46b0-4688-a005-2de9c468ffcc" />
-```
+
+
 
 ---
 
@@ -54,9 +55,9 @@ python tcp_client.py
 
 Expected output:
 
-```
+
 <img width="830" height="113" alt="image" src="https://github.com/user-attachments/assets/b877cd60-5275-46f4-bec8-491c34187342" />
-```
+
 
 Now you can type anything and send it to the server.
 
